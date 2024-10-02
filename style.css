@@ -1,0 +1,11 @@
+.heading{
+    color: green;
+    font-size: 40px;
+}
+@media screen and (width < 480px) {
+    .heading{
+        font-size: 25px;
+        color: red;
+    }
+    
+}
